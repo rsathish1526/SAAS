@@ -1,3 +1,4 @@
+import React from "react";
 import './Features.css';
 import f1 from '../../assets/images/feature-1.jpg';
 import f2 from '../../assets/images/feature-2.jpg';

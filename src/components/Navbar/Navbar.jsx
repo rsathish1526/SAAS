@@ -1,2 +1,3 @@
+import React from "react";
 import './Navbar.css';
 export default function Navbar(){return <header className="nav-wrap"><nav className="nav"><a className="logo" href="#"><span className="logo-mark" aria-hidden="true"></span>TrailHive</a><div className="nav-links"><a href="#features">Features</a><a href="#pricing">Pricing</a><a href="#blog">Blog</a><a href="#about">About us</a><a className="contact" href="#contact">Contact us</a><a className="download" href="#footer">Download the app</a></div><button className="menu" aria-label="Menu"><i></i><i></i><i></i></button></nav></header>}

@@ -1,3 +1,4 @@
+import React from "react";
 import './Hero.css';
 import hero from '../../assets/images/hero.jpg';
 export default function Hero(){return <section className="hero"><div className="hero-inner"><div className="hero-copy reveal"><h1>Your Ultimate<br/>Outdoor<br/>Companion</h1><p>Are you tired of spending hours searching for the perfect hiking or biking trail? TrailHive - the ultimate outdoor adventure app that connects you with the best trails in your area.</p><a className="light-btn" href="#features">Download the app</a></div><div className="hero-photo reveal"><img src={hero} alt="Mountain lake and hiker"/></div></div></section>}
