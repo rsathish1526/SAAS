@@ -1,0 +1,12 @@
+.social-test {
+  width: 100%;
+  overflow: hidden;
+  background: #0d1712;
+}
+
+.social-bg {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+}
